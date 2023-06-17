@@ -16,8 +16,8 @@ byte degree[8] =
 };
 #define RX 2
 #define TX 3
-String AP = "Huzaifa";       // AP NAME
-String PASS = "123456790"; // AP PASSWORD
+String AP = "Huzaifa";       // WiFi SSID
+String PASS = "123456790"; // WiFi PASSWORD
 String API = "HJ2UT6FF6BPDJQ9E";   // Write API KEY
 String HOST = "api.thingspeak.com";
 String PORT = "80";
